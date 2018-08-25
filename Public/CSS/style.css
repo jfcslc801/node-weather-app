@@ -1,0 +1,25 @@
+#centerForm{
+    text-align: center;
+}
+/* .container{
+    background-color: red;
+} */
+#centerFieldset{
+    text-align: center;
+    width: 400px;
+    background-color: blue;
+    position: relative;
+}
+
+.ghost-input{
+    height: 40px;
+}
+
+.ghost-button{
+    height: 40px;
+    background-color: red;
+}
+
+P{
+    text-align: center;
+}
